@@ -10,5 +10,5 @@ int main(){
 	sum=n1+n2;
 	
 	printf("%.2f", sum);
-		printf("Hello");
+		printf("Hello World");
 }
